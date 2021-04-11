@@ -7,5 +7,7 @@ Also added function for binary tree pretty-printing and test visualization, cred
 
 Prerequirements:
 python 3.x+
+both .py files in same directory
 
-Tests are stored in test.txt
+Tests are stored in Test.py
+to run them, type python3 Test.py 
