@@ -6,8 +6,8 @@ Such data structure stores paires {key, value} in it and allowes to insert/delet
 Also added function for binary tree pretty-printing and test visualization, credits for it to StackOverflow
 
 Prerequirements:
-python 3.x+ 
-Both .py files in same directory
+python 3.x+, 
+both .py files in same directory
 
-Tests are stored in Test.py. 
-To run them, type python3 Test.py 
+Tests are stored in Test.py, 
+to run them, type python3 Test.py 
