@@ -1,4 +1,4 @@
-import jet
+import Tree
 
 def pretty_print_tree(root):
     """
@@ -59,7 +59,7 @@ def _pretty_print_tree(root):
     lines = [first_line, second_line] + [a + u * ' ' + b for a, b in zipped_lines]
     return lines, n + m + u, max(p, q) + 2, n + u // 2
 
-tree = jet.AvlTree()
+tree = Tree.AvlTree()
 
 tree.insert(1, 1)
 tree.insert(5, 1)
